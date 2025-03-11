@@ -26,9 +26,9 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "PJQGHbjS#l28gWpOT617NSHrhSD6M1XCJe1pU4LEaMYe4OihtnN4",
+SESSION_ID: process.env.SESSION_ID || "2IgQUJKT#eAQS9QDzXc3VVzOCGziVLy4eDG8qiyjQa9VqkuK3ivA",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
-OWNER_NUMBER: process.env.OWNER_NUMBER || "242067274660",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "916282319429",
 MODE: process.env.MODE || "private",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
@@ -38,11 +38,11 @@ ALIVE_MSG: process.env.ALIVE_MSG || "𝙹𝙸𝙽𝙷𝚄𝚈𝙺 ᴀɪ ɪs ᴀ�
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".", // .,!/?
-FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
+FAKE_RECORDING: process.env.FAKE_RECORDING || "true.",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "『 queen jesna -Ｖ２ 』",
+BOT_NAME: process.env.BOT_NAME || "『 queen nema -Ｖ２ 』",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
